@@ -1,1 +1,1 @@
-PHP based Wbsite of Allianze Infosoft
+PHP based Website of Allianze Infosoft
